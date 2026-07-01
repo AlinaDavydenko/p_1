@@ -136,3 +136,15 @@ llm_p/
 - **services/** — интеграция с внешним OpenRouter API, не знает про БД и пользователей.
 - **core/** — конфигурация, JWT/хеширование паролей, доменные исключения.
 - **db/** — декларативная база, engine/sessionmaker, ORM-модели.
+
+## Работа эндпоинтов 
+![Регистрация](screenshots/auth_register.png)
+![Логирование](screenshots/auth_login.png)
+![Серкетный ключ](screenshots/secret_key.png)
+![Спросить вопрос](screenshots/ask.png)
+![История чата](screenshots/chat_history.png)
+![Получить себя](screenshots/get_me.png)
+![Здоровье](screenshots/get_health.png)
+![Удалить](screenshots/delete.png)
+![]()
+![]()
